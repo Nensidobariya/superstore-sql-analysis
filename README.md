@@ -45,34 +45,34 @@ customer segments, discount impact and trend analysis.
 ## Query Results
 
 ### Query 1 — Total Sales, Profit & Orders
-![Query 1](<img width="1920" height="1080" alt="Total Sales, Profit and Orders" src="https://github.com/user-attachments/assets/f3dd1295-0ece-4e24-a806-a79f991d2437" />)
+![Query 1](query1.png)
 
 ### Query 2 — Sales by Region
-![Query 2](<img width="1920" height="1080" alt="Sales by Region" src="https://github.com/user-attachments/assets/10542d2a-7816-490f-9ae8-0f131d1cebff" />)
+![Query 2](query2.png)
 
 ### Query 3 — Top 10 Most Profitable Products
-![Query 3](<img width="1920" height="1080" alt="Top 10 Most Profitable Products" src="https://github.com/user-attachments/assets/7aad0fbc-b45e-44db-a4cd-bc42979b02b8" />)
+![Query 3](query3.png)
 
 ### Query 4 — Sales by Category
-![Query 4](<img width="1920" height="1080" alt="Sales by Category" src="https://github.com/user-attachments/assets/95a4afe5-7530-405c-984c-072d54edab6c" />)
+![Query 4](query4.png)
 
 ### Query 5 — Loss Making Products
-![Query 5](<img width="1920" height="1080" alt="Loss Making Products (Negative Profit)" src="https://github.com/user-attachments/assets/d718d6ec-727c-4a3d-a71e-d575c4e78be1" />)
+![Query 5](query5.png)
 
 ### Query 6 — Customer Segments
-![Query 6](<img width="1920" height="1080" alt="Sales by Customer Segment" src="https://github.com/user-attachments/assets/e0e0b2ba-0c56-4517-a340-e5282558d30a" />)
+![Query 6](query6.png)
 
 ### Query 7 — Monthly Sales Trend
-![Query 7](<img width="1920" height="1080" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/ed0a6f12-00f8-4a7f-905e-5ab24756226b" />)
+![Query 7](query7.png)
 
 ### Query 8 — Top 10 States by Sales
-![Query 8](<img width="1920" height="1080" alt="Top 10 Most Profitable Products" src="https://github.com/user-attachments/assets/68ea490e-c3fe-4a0e-b77e-f7c9ffaf2402" />)
+![Query 8](query8.png)
 
 ### Query 9 — Discount Impact on Profit
-![Query 9](<img width="1920" height="1080" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/4cc8f9a5-a982-44e1-a240-e02675ef77c0" />)
+![Query 9](query9.png)
 
 ### Query 10 — Sub-Category Performance
-![Query 10](<img width="1920" height="1080" alt="Sub-Category Performance" src="https://github.com/user-attachments/assets/b82eaf0d-ba69-4a32-b255-66973fac5af2" />)
+![Query 10](query10.png)
 
 ---
 
@@ -118,7 +118,7 @@ USE superstore_analysis;
 
 ---
 
-## 👤 Author
+## Author
 **Nensi Dobariya** — Business Analyst | Data Analyst  
 nensidobariya3112@gmail.com
 [LinkedIn](https://www.linkedin.com/in/nensi-dobariya)  
